@@ -27,8 +27,8 @@ Take the measurement of the track on each and every turn and gives the values tr
 
 ## Program
 ```python
-#Developed by: 
-#Register no: 212223230067
+#Developed by: Mohamed Nadheem N
+#Register no: 212223240091
 
 from robomaster import robot
 import time
